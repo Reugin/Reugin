@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, Abhishek here. </h1>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Reugito&label=Profile%20views&color=0e75b6&style=flat" alt="Reugito" />
+  <img src="https://komarev.com/ghpvc/?username=Reugin&label=Profile%20views&color=0e75b6&style=flat" alt="Reugin" />
 </p>
 
 🌱 I’m a **Full Stack Devloper Trainee - upGrad**<br>
