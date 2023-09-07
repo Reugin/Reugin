@@ -4,7 +4,7 @@
 </p>
 
 🌱 I’m a **Full Stack Devloper Trainee - upGrad**<br>
-💬 Ask me about **Java, HTML,CSS, JavaScript, Nodejs, Reactjs, Python, MySQL, MongoDB**<br>
+💬 Ask me about **Java, HTML,CSS, JavaScript, Nodejs, Reactjs, MongoDB**<br>
 📫 How to reach me: **abhigaikwad735@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
