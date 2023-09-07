@@ -21,11 +21,14 @@
 <p align="left">
     <a href="https://www.java.com" target="Java" style="margin-left: 10px;"> 
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-    <a href="https://html.com/" target="_blank" style="margin-left: 20px;"> 
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Git" width="40" height="40"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-left: 20px;"> 
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
     </a> 
        <a href="https://www.css3.com/" target="_blank" style="margin-left: 20px;"> 
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Git" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
+    </a>  
+       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-left: 20px;"> 
+        <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" alt="JavaScript" width="40" height="40"/>
     </a>  
     <a href="https://www.javascript.com/" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/>
