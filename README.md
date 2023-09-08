@@ -30,9 +30,6 @@
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" alt="JavaScript" width="40" height="40"/>
     </a>  
-    <a href="https://www.javascript.com/" target="_blank" style="margin-left: 20px;"> 
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/>
-    </a>
     <a href="https://nodejs.org/en" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="40" height="40"/>
     </a>
